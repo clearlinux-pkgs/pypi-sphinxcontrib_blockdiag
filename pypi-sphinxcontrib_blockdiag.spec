@@ -4,7 +4,7 @@
 #
 Name     : pypi-sphinxcontrib_blockdiag
 Version  : 3.0.0
-Release  : 41
+Release  : 42
 URL      : https://files.pythonhosted.org/packages/42/83/0624c9f694fd942b9c11dbd3d6694bb9b10a68b22f65b1623b4657f4b7ac/sphinxcontrib-blockdiag-3.0.0.tar.gz
 Source0  : https://files.pythonhosted.org/packages/42/83/0624c9f694fd942b9c11dbd3d6694bb9b10a68b22f65b1623b4657f4b7ac/sphinxcontrib-blockdiag-3.0.0.tar.gz
 Summary  : Sphinx "blockdiag" extension
@@ -63,7 +63,7 @@ export http_proxy=http://127.0.0.1:9/
 export https_proxy=http://127.0.0.1:9/
 export no_proxy=localhost,127.0.0.1,0.0.0.0
 export LANG=C.UTF-8
-export SOURCE_DATE_EPOCH=1641586750
+export SOURCE_DATE_EPOCH=1641668059
 export GCC_IGNORE_WERROR=1
 export CFLAGS="$CFLAGS -fno-lto "
 export FCFLAGS="$FFLAGS -fno-lto "
